@@ -49,6 +49,8 @@ Navigate to the Microsoft Azure homepage. To begin create a virtual machine and 
 <img src="https://github.com/user-attachments/assets/f4f61947-66f7-466b-bd77-ae4c2423ae53" height="400%" width="400%" alt="Disk Sanitization Steps"/>
 </p>
 
+<br />
+
 <p>
 In the process of creating your virtual machine, go to the networking tab and let the virtual machine create a new virtual network, that will create all the necessary resource groups for you to use the virtual machine properly. Ensuring the size of the virtual machine is at least 2vcpus and you have memorized your credentials press create virtual machine. Use Remote Desktop to connect to the virtual machine and connect using the public IP address and username and password when you created the machine. 
 </p>
@@ -61,6 +63,6 @@ In the process of creating your virtual machine, go to the networking tab and le
 https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD 
 </p>
 <p>
-Once inside the virtual machine open a webpage and Input the link above into the URL and download onto the virtual machine. Download This folder to get all the required folders to install osTicket and its dependencies. Right click on the zip folder and press extract all onto the desktop 
+Once inside the virtual machine open a webpage and Input the link above into the URL and download onto the virtual machine. Download This folder to get all the required folders to install osTicket and its dependencies. Right click on the zip folder and press extract all onto the desktop. Then, access your control panel to begin the stepsto enable IIS services to allow host websites, web applications, and other services.
 </p>
 <br />
