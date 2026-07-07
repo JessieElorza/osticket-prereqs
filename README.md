@@ -69,7 +69,7 @@ Once inside the virtual machine open a webpage and Input the link above into the
 <img src="https://github.com/user-attachments/assets/52b96637-41be-487f-8853-ef4d78699100" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Inside the control panel menu click on programs -> Programs and Features -> Turn Windows features on or off. Enable Internet Information Services then expand the file and find World Wide Web Services -> Application Development Features -> And then Enable CGI
+Inside the control panel menu click on programs -> Programs and Features -> Turn Windows features on or off. Enable Internet Information Services then expand the file and find World Wide Web Services -> Application Development Features -> And then Enable CGI. Now web services are enabled so we can prepare the environment for osTicket.
 </p>
 <br />
 <h2></h2>
