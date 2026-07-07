@@ -152,3 +152,12 @@ Inside the IIS window go to the connections tab on the left again and drop the a
 </p>
 <br />
 <h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/79bd8074-8a47-41d7-8e2b-fc3a5b95a6b7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In your file explorer navigate to: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the ost-sampleconfig.php to ost-config.php.
+</p>
+<br />
+<h2></h2>
