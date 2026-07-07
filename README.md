@@ -63,7 +63,7 @@ In the process of creating your virtual machine, go to the networking tab and le
 https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD 
 </p>
 <p>
-Once inside the virtual machine open a webpage and Input the link above into the URL and download onto the virtual machine. Download This folder to get all the required folders to install osTicket and its dependencies. Right click on the zip folder and press extract all onto the desktop. Then, access your control panel to begin the stepsto enable IIS services to allow host websites, web applications, and other services.
+Once inside the virtual machine open a webpage and Input the link above into the URL and download onto the virtual machine. Download This folder to get all the required folders to install osTicket and its dependencies. Right click on the zip folder and press extract all onto the desktop. Then, access your control panel to begin the steps to enable IIS services to allow host websites, web applications, and other services.
 </p>
 <br />
 <h2></h2>
