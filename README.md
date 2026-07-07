@@ -134,12 +134,12 @@ Inside "IIS" manager open PHP manager and then click Register new PHP version th
 <img src="https://github.com/user-attachments/assets/89ee7494-edb3-440b-9c8c-fc07dc880640" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+<img src="https://github.com/user-attachments/assets/23fbca04-7e5f-4759-b897-1c1b7cb5a827" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Install osTicket v1.15.8
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
-Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket” Stop and restart server again to refresh and actuate the changes.
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket” Stop and restart server again to refresh and actuate the changes. Then in IIS to the left in the connections tab to the left click on Sites and drop down into Default Web Site then drop down the arrow and select osTicket and click on Browse:80(http) in the manage folder settings on the right. If the website opens and shows osTicket then you have done it correctly. 
 </p>
 <br />
 <h2></h2>
