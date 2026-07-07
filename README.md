@@ -84,6 +84,15 @@ Inside the control panel menu click on programs -> Programs and Features -> Turn
 <img src="https://github.com/user-attachments/assets/70a0d92a-f141-4b08-baff-2310cd94907b" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Open the osTicket-Installation-Files downloaded earlier. Open the PHPManagerForIIS_V1.5.0.msi and run it, once downloaded head back to the installation files folder and open and run rewrite_amd64_en-US.msi and once the download is complete press done and head to your Windowws C: Drive
+</p>
+<br />
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/3cf16e95-c676-4b5f-9075-4c6f7ed927f5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Navigate to the Microsoft Azure homepage. To begin create a virtual machine and create your own name for the virtual machine as well as a username and password for the machine.
 </p>
 <br />
