@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket on a virtual machine hosted on a cloud service environment run by Microsoft Azure.<br />
+This Project outlines the prerequisites and installation of the open-source help desk ticketing system osTicket on a virtual machine hosted on a cloud service environment run by Microsoft Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -39,7 +39,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/user-attachments/assets/3cf16e95-c676-4b5f-9075-4c6f7ed927f5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-hui may
+Navigate to the Microsoft Azure homepage. To begin create a virtual machine and create your own name for the virtual machine as well as a username and password for the machine.
 </p>
 <br />
 
@@ -50,7 +50,7 @@ hui may
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the process of creating your virtual machine, go to the networking tab and let the virtual machine create a new virtual network, that will create all the necessary resource groups for you to use the virtual machine properly. Ensuring the size of the virtual machine is at least 2vcpus and you have memorized your credentials press create virtual machine. Use Remote Desktop to connect to the virtual machine and connect using the IP address and username and password when you created the machine. 
 </p>
 <br />
 
