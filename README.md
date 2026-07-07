@@ -50,7 +50,7 @@ Navigate to the Microsoft Azure homepage. To begin create a virtual machine and 
 </p>
 
 <p>
-In the process of creating your virtual machine, go to the networking tab and let the virtual machine create a new virtual network, that will create all the necessary resource groups for you to use the virtual machine properly. Ensuring the size of the virtual machine is at least 2vcpus and you have memorized your credentials press create virtual machine. Use Remote Desktop to connect to the virtual machine and connect using the public IP address and username and password when you created the machine. 
+In the process of creating your virtual machine, go to the networking tab and let the virtual machine create a new virtual network, that will create all the necessary resource groups for you to use the virtual machine properly. Ensuring the size of the virtual machine is at least 2vcpus and you have memorized your credentials press create virtual machine. Use Remote Desktop to connect to the virtual machine and connect using the public IP address. Login using the username and password when you created the machine. 
 </p>
 <br />
 
