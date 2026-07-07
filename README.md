@@ -93,7 +93,7 @@ Open the osTicket-Installation-Files downloaded earlier. Open the PHPManagerForI
 <img src="https://github.com/user-attachments/assets/94fa9407-71a9-4075-a554-227f0e30af71" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Inside the Windows C: Drive create a new folder called PHP. Concurrently head over to the osTicket-Installation-Files and inside the folder right click on the php-7.3.8-nts-Win32-VC15-x86.zip and press extract all and direct the path into the new PHP folder just created in the C: drive
+Inside the Windows C: Drive create a new folder called PHP. Concurrently head over to the osTicket-Installation-Files and inside the folder right click on the php-7.3.8-nts-Win32-VC15-x86.zip and press extract all and direct the path into the new PHP folder just created in the C: drive then In the osTicket-Installation-Files download and run the VC_redist.x86 package to install microsoft C and C++ runtimes so the osTicket application can be allowed to  run.
 </p>
 <br />
 <h2></h2>
