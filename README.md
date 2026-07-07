@@ -64,7 +64,7 @@ https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
 Once inside the virtual machine open a webpage and Input the link above into the URL and download onto the virtual machine. Download This folder to get all the required folders to install osTicket and its dependencies. Right click on the zip folder and press extract all onto the desktop. Then, access your control panel to begin the stepsto enable IIS services to allow host websites, web applications, and other services.
 </p>
 <br />
-
+<h2></h2>
 <p>
 <img src="https://github.com/user-attachments/assets/52b96637-41be-487f-8853-ef4d78699100" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
