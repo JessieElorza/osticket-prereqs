@@ -55,7 +55,7 @@ In the process of creating your virtual machine, go to the networking tab and le
 <br />
 
 <p>
-<img  height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/e8ac155c-b94e-4b8a-8dac-d039aaa9c9a7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD 
