@@ -158,7 +158,25 @@ Inside the IIS window go to the connections tab on the left again and drop the a
 <img src="https://github.com/user-attachments/assets/665a173b-4ebf-494d-b1e6-d06ebc1447da" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In your file explorer navigate to: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the ost-sampleconfig.php to ost-config.php. Assign permissions to ost-config.php by going into properties and disabling inherited permissions and manually adding the appropriate access: Everyone -> Full Control to allow the application to have access and change the file.
+In your file explorer navigate to: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the ost-sampleconfig.php to ost-config.php. Manually set permissions to ost-config.php by going into properties and disabling inherited permissions and making the principle whatever you needafterwards check all the permissions and then set it to Everyone and then set to Full Control to allow everyone to access the application and have access and change the file.
+</p>
+<br />
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/7052b810-8960-458f-9955-e94e43e60c2f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now open osTicket in the web browser and fill out all the required data needed to start an osTicket office (Helpdesk Name, Email etc...). Make a username and password and keep them safe in a dedicated password safelock app to remember them and to reduce security issues from arising in the workplace.
+</p>
+<br />
+<h2></h2>
+
+<p>
+![Uploading Screenshot 2026-07-05 140320.png…]()height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 </p>
 <br />
 <h2></h2>
