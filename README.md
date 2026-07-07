@@ -125,7 +125,22 @@ Navigate to the windows search bar and search for "IIS" (Internet Information Se
 <img src="https://github.com/user-attachments/assets/465eef38-a91d-4340-bebf-4315bf2d2611" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Inside "IIS" manager open PHP manager and then click Register new PHP version then browse to the PHP folder in the C: drive and path it to php-cgi.exe inside the PHP folder. Circle back to the "IIS" manager window and Press stop and start on the manage server side
+Inside "IIS" manager open PHP manager and then click Register new PHP version then browse to the PHP folder in the C: drive and path it to php-cgi.exe inside the PHP folder. Circle back to the "IIS" manager window and Press stop and start on the manage server side for your server to refresh and actuate the new PHP version.
 </p>
 <br />
 <h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/89ee7494-edb3-440b-9c8c-fc07dc880640" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<p>
+Install osTicket v1.15.8
+From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket” Stop and restart server again to refresh and actuate the changes.
+</p>
+<br />
+<h2></h2>
+
