@@ -139,16 +139,16 @@ Inside "IIS" manager open PHP manager and then click Register new PHP version th
 <p>
 Install osTicket v1.15.8
 From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot”
-Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket” Stop and restart server again to refresh and actuate the changes. Then in the IIS window to the left in the connections tab click on Sites and drop down into Default Web Site then drop down the arrow and select osTicket and click on Browse:80(http) in the manage folder settings on the right. If osTicket opens then everything is fine and everything has been done correctly. Since we are missing some extensions go back to the IIS window to enable the ones we need that osTicket recommends. 
+Within “c:\inetpub\wwwroot”, Rename “upload” to “osTicket” Stop and restart server again to refresh and actuate the changes. Then in the IIS window to the left in the connections tab click on Sites and drop down into Default Web Site then drop down the arrow and select osTicket and click on Browse:80(http) in the manage folder settings on the right. If osTicket opens then everything is fine and everything has been done correctly. Since we are missing some extensions go back to the IIS window to enable the ones we need that osTicket requires to work. 
 </p>
 <br />
 <h2></h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/0d3c95cc-43dc-4a99-9152-76136a8bc034" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5479b1f8-d2e4-4d0e-ae20-24f529dfebb3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to the windows search bar and search for "IIS" (Internet Information Services) and right click on it and choose to run as admin
+Inside the IIS window go to the connections tab on the left again and drop the arrow down for Sites and then drop the arrow down for Default Web Site select osTicket and click on PHP Manager. Go to enable or disable an extension. Enable the required PHP extensions php_imap.dll, php_intl.dll, and php_opcache.dll through PHP Manager to make osTicket fully functional. Stop the server and start it again to actuate the changes once more.
 </p>
 <br />
 <h2></h2>
