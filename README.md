@@ -90,10 +90,10 @@ Open the osTicket-Installation-Files downloaded earlier. Open the PHPManagerForI
 <h2></h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/3cf16e95-c676-4b5f-9075-4c6f7ed927f5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/94fa9407-71a9-4075-a554-227f0e30af71" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to the Microsoft Azure homepage. To begin create a virtual machine and create your own name for the virtual machine as well as a username and password for the machine.
+Inside the Windows C: Drive, create a new folder called PHP. Concurrently head over to the osTicket-Installation-Files and right click on the php-7.3.8-nts-Win32-VC15-x86.zip and press extract all and direct the path into the new PHP folder just created in the C: drive
 </p>
 <br />
 <h2></h2>
