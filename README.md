@@ -24,6 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Microsoft Azure subscription
 - HeidiSQL_12.3.0.6589_Setup.exe
 - mysql-5.5.62-win32.msi
 - osTicket-v1.15.8.zip
