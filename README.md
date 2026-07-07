@@ -117,3 +117,15 @@ Navigate to the windows search bar and search for "IIS" (Internet Information Se
 </p>
 <br />
 <h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/125b76be-ffaf-42b3-af64-b1c3b9b2a18c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/465eef38-a91d-4340-bebf-4315bf2d2611" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Inside "IIS" manager open PHP manager and then click Register new PHP version then browse to the PHP folder in the C: drive and path it to php-cgi.exe inside the PHP folder. Circle back to the "IIS" manager window and Press stop and start on the manage server side
+</p>
+<br />
+<h2></h2>
