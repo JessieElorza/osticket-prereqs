@@ -42,7 +42,7 @@ This Project outlines the prerequisites and installation of the open-source help
 Navigate to the Microsoft Azure homepage. To begin create a virtual machine and create your own name for the virtual machine as well as a username and password for the machine.
 </p>
 <br />
-
+<h2></h2>
 <p>
 <img src="https://github.com/user-attachments/assets/59f71a53-bcfd-43b2-b559-ddf1d0caa1cb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/user-attachments/assets/078dcb4c-79b4-40db-967f-cce75d2d3b60" height="40%" width="40%" alt="Disk Sanitization Steps"/>
