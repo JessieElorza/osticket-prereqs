@@ -108,3 +108,12 @@ In the osTicket-Installation-Files open and install the mysql.5.5.62-win32 file 
 </p>
 <br />
 <h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/0d3c95cc-43dc-4a99-9152-76136a8bc034" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Navigate to the windows search bar and search for "IIS" (Internet Information Services) and right click on it and choose to run as admin
+</p>
+<br />
+<h2></h2>
