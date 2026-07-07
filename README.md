@@ -100,9 +100,11 @@ Inside the Windows C: Drive create a new folder called PHP. Concurrently head ov
 
 <p>
 <img src="https://github.com/user-attachments/assets/c679f0f3-107b-4dc9-8fa9-3c3462780a99" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/61aa3486-5903-426a-81a7-00489433b11a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-In the osTicket-Installation-Files download and run the VC_redist.x86 package to install microsoft C and C++ runtimes so the osTicket application can be allowed to  run. 
+ 
 </p>
 <br />
 <h2></h2>
