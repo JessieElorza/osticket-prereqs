@@ -103,8 +103,8 @@ Inside the Windows C: Drive create a new folder called PHP. Concurrently head ov
 <img src="https://github.com/user-attachments/assets/61aa3486-5903-426a-81a7-00489433b11a" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
 </p>
-<p>
- 
+<p> 
+In the osTicket-Installation-Files open and install the mysql.5.5.62-win32 file This will help with storing, managing, and querying structured data inside osTicket. In the setup window select typical and install it then check the MySQL Instance Configuration Wizard box and launch the wizard. Inside the configuration wizard select standard and keep going until you need to create a root password, create one then continue and finish the install.
 </p>
 <br />
 <h2></h2>
