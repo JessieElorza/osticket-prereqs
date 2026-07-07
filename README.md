@@ -79,6 +79,8 @@ Inside the control panel menu click on programs -> Programs and Features -> Turn
 
 <p>
 <img src="https://github.com/user-attachments/assets/4e517738-5567-4193-9415-8341bbccb71f" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 <img src="https://github.com/user-attachments/assets/70a0d92a-f141-4b08-baff-2310cd94907b" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
