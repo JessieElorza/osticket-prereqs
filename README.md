@@ -173,7 +173,7 @@ Now open osTicket in the web browser and fill out all the required data needed t
 <h2></h2>
 
 <p>
-![Uploading Screenshot 2026-07-05 140320.png…]()height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/adda5ef1-e4fa-4779-aac2-1cb43d3f9055" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
