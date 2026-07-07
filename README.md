@@ -50,7 +50,7 @@ Navigate to the Microsoft Azure homepage. To begin create a virtual machine and 
 </p>
 
 <p>
-In the process of creating your virtual machine, go to the networking tab and let the virtual machine create a new virtual network, that will create all the necessary resource groups for you to use the virtual machine properly. Ensuring the size of the virtual machine is at least 2vcpus and you have memorized your credentials press create virtual machine. Use Remote Desktop to connect to the virtual machine and connect using the IP address and username and password when you created the machine. 
+In the process of creating your virtual machine, go to the networking tab and let the virtual machine create a new virtual network, that will create all the necessary resource groups for you to use the virtual machine properly. Ensuring the size of the virtual machine is at least 2vcpus and you have memorized your credentials press create virtual machine. Use Remote Desktop to connect to the virtual machine and connect using the public IP address and username and password when you created the machine. 
 </p>
 <br />
 
@@ -58,6 +58,6 @@ In the process of creating your virtual machine, go to the networking tab and le
 <img  height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD 
 </p>
 <br />
