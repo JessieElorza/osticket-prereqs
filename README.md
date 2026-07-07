@@ -40,9 +40,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 <img src="https://github.com/user-attachments/assets/59f71a53-bcfd-43b2-b559-ddf1d0caa1cb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/user-attachments/assets/078dcb4c-79b4-40db-967f-cce75d2d3b60" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://github.com/user-attachments/assets/f4f61947-66f7-466b-bd77-ae4c2423ae53" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-
+<img src="https://github.com/user-attachments/assets/f4f61947-66f7-466b-bd77-ae4c2423ae53" height="400%" width="400%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
