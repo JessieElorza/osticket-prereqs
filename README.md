@@ -43,6 +43,7 @@ Navigate to the Microsoft Azure homepage. To begin create a virtual machine and 
 </p>
 <br />
 <h2></h2>
+
 <p>
 <img src="https://github.com/user-attachments/assets/59f71a53-bcfd-43b2-b559-ddf1d0caa1cb" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/user-attachments/assets/078dcb4c-79b4-40db-967f-cce75d2d3b60" height="40%" width="40%" alt="Disk Sanitization Steps"/>
@@ -54,6 +55,7 @@ In the process of creating your virtual machine, go to the networking tab and le
 </p>
 <br />
 <h2></h2>
+
 <p>
 <img src="https://github.com/user-attachments/assets/e8ac155c-b94e-4b8a-8dac-d039aaa9c9a7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -65,6 +67,7 @@ Once inside the virtual machine open a webpage and Input the link above into the
 </p>
 <br />
 <h2></h2>
+
 <p>
 <img src="https://github.com/user-attachments/assets/52b96637-41be-487f-8853-ef4d78699100" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -73,3 +76,14 @@ Inside the control panel menu click on programs -> Programs and Features -> Turn
 </p>
 <br />
 <h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/4e517738-5567-4193-9415-8341bbccb71f" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/70a0d92a-f141-4b08-baff-2310cd94907b" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Navigate to the Microsoft Azure homepage. To begin create a virtual machine and create your own name for the virtual machine as well as a username and password for the machine.
+</p>
+<br />
+<h2></h2>
+
