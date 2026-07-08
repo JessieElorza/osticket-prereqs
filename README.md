@@ -167,7 +167,7 @@ In your file explorer navigate to: C:\inetpub\wwwroot\osTicket\include\ost-sampl
 <img src="https://github.com/user-attachments/assets/7052b810-8960-458f-9955-e94e43e60c2f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now open osTicket in the web browser and fill out all the required data needed to start an osTicket office (Helpdesk Name, Email etc...). Make a username and password and keep them safe in a dedicated password safelock app to remember them and to reduce security issues from arising in the workplace.
+Now open osTicket in the web browser and fill out all the required data needed to start an osTicket office (Helpdesk Name, Email etc...). Make a username and password and keep them safe in a dedicated password safelock app to remember them and to reduce security issues from arising in the workplace. Don't click install just yet.
 </p>
 <br />
 <h2></h2>
@@ -176,7 +176,7 @@ Now open osTicket in the web browser and fill out all the required data needed t
 <img src="https://github.com/user-attachments/assets/adda5ef1-e4fa-4779-aac2-1cb43d3f9055" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a database named osTicket to support the application backend. From the "osTicket-Installation-Files" folder install HeidiSQL_12.3.0.6589_Setup. Heidi allows access to the database and to configure it. Don't change any settings and check Launch HeidiSQL.
+Create a database named osTicket to support the application backend. From the "osTicket-Installation-Files" folder install HeidiSQL_12.3.0.6589_Setup. Heidi allows access to the database and allows changes to it. Once downloaded and setup, don't change any settings and check the box to Launch HeidiSQL.
 </p>
 <br />
 <h2></h2>
@@ -200,7 +200,7 @@ Now on the top left, right click Create new select Database and name it osTicket
 <h2></h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/5b6cf2fa-6011-4a8d-9c1f-e9321ca3ab91" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/be037138-0698-4127-8e66-94e211dc9195" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now back onto the osTicket Basic Installation window fill out the Database settings using the same Heidi and SQL server username and password and Database name which we set as "osTicket" Then finally click install osTicket.
