@@ -210,12 +210,16 @@ Now back onto the osTicket Basic Installation window fill out the Database setti
 <p>
 <img src="https://github.com/user-attachments/assets/182e6354-10bb-480b-a8f3-fd2e74c7313a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://github.com/user-attachments/assets/09d8c4ce-300a-4692-9fc7-0e074283cc31" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5d390d56-4af2-4302-bef6-88361b5e3689" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 http://localhost/osTicket/scp/login.php
 </p>
 <p>
-Login to osTicket and if everything is installed properly then You should be able to login. To access the login portal use The above Url to access the login page.
+
+</p>
+<p>
+Login to osTicket and if everything is installed properly then You should be able to login. To access the login portal use The above link and copy and paste it into the URL. And to access the End Users osTicket URL for client tickets use the second Link. If installed correctly everything should properly deploy and function by accessing the osTicket environment and you are able to work within the system creating and resolving tickets for any buisness.
 </p>
 <br />
 <h2></h2>
