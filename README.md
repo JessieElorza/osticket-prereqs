@@ -208,10 +208,11 @@ Now back onto the osTicket Basic Installation window fill out the Database setti
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/5b6cf2fa-6011-4a8d-9c1f-e9321ca3ab91" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/182e6354-10bb-480b-a8f3-fd2e74c7313a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/09d8c4ce-300a-4692-9fc7-0e074283cc31" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now back onto the osTicket Basic Installation window fill out the Database settings using the same Heidi and SQL server username and password and Database name which we set as "osTicket" Then finally click install osTicket.
+Login to osTicket and if everything is installed properly then You should be able to login 
 </p>
 <br />
 <h2></h2>
