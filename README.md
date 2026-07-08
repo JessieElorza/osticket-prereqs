@@ -224,5 +224,5 @@ Login to osTicket and if everything is installed properly then You should be abl
 <br />
 <h2></h2>
 
-<h2>### End of Project</h2>
-This demonstrates the configuration of web servers (IIS), PHP, MySQL database integration, security adjustments to make a proper help desk using osTicket. Help desk is now ready to go!
+### End of Project
+This demonstrates the use and configuration of Virtual machines, Remote Desktop, web servers (IIS), PHP, MySQL database integration, security adjustments to make a proper help desk using osTicket. Help desk is now ready to go!
