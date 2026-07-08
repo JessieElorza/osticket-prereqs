@@ -212,7 +212,7 @@ Now back onto the osTicket Basic Installation window fill out the Database setti
 <img src="https://github.com/user-attachments/assets/09d8c4ce-300a-4692-9fc7-0e074283cc31" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Login to osTicket and if everything is installed properly then You should be able to login 
+Login to osTicket and if everything is installed properly then You should be able to login. To access the login portal use http://localhost/osTicket/scp/login.php
 </p>
 <br />
 <h2></h2>
