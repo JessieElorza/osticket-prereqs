@@ -176,7 +176,42 @@ Now open osTicket in the web browser and fill out all the required data needed t
 <img src="https://github.com/user-attachments/assets/adda5ef1-e4fa-4779-aac2-1cb43d3f9055" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+Create a database named osTicket to support the application backend. From the "osTicket-Installation-Files" folder install HeidiSQL_12.3.0.6589_Setup. Heidi allows access to the database and to configure it. Don't change any settings and check Launch HeidiSQL.
+</p>
+<br />
+<h2></h2>
 
+<p>
+<img src="https://github.com/user-attachments/assets/adda5ef1-e4fa-4779-aac2-1cb43d3f9055" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once HeidiSQL is open create a new session in the session manager. Use the same username and password you used when making the SQL server earlier it is essential they are the same to setup a proper connection to the database. 
+</p>
+<br />
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/5b6cf2fa-6011-4a8d-9c1f-e9321ca3ab91" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now on the top left, right click Create new select Database and name it osTicket. The installation of osTicket will make use of this database and put whatever information/data it outputs inside of here.
+</p>
+<br />
+<h2></h2>
+
+<p>
+<img src="https://github.com/user-attachments/assets/5b6cf2fa-6011-4a8d-9c1f-e9321ca3ab91" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now back onto the osTicket Basic Installation window fill out the Database settings using the same Heidi and SQL server username and password and Database name which we set as "osTicket" Then finally click install osTicket.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/5b6cf2fa-6011-4a8d-9c1f-e9321ca3ab91" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now back onto the osTicket Basic Installation window fill out the Database settings using the same Heidi and SQL server username and password and Database name which we set as "osTicket" Then finally click install osTicket.
 </p>
 <br />
 <h2></h2>
