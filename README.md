@@ -216,7 +216,7 @@ Now back onto the osTicket Basic Installation window fill out the Database setti
 http://localhost/osTicket/scp/login.php
 </p>
 <p>
-
+http://localhost/osTicket/
 </p>
 <p>
 Login to osTicket and if everything is installed properly then You should be able to login. To access the login portal use The above link and copy and paste it into the URL. And to access the End Users osTicket URL for client tickets use the second Link. If installed correctly everything should properly deploy and function by accessing the osTicket environment and you are able to work within the system creating and resolving tickets for any buisness.
