@@ -194,7 +194,7 @@ Once HeidiSQL is open create a new session in the session manager. Use the same 
 <img src="https://github.com/user-attachments/assets/5b6cf2fa-6011-4a8d-9c1f-e9321ca3ab91" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now on the top left, right click Create new select Database and name it osTicket. The installation of osTicket will make use of this database and put whatever information/data it outputs inside of here.
+Now onn the top left, right click Create new and select Database and name it osTicket. The installation of osTicket will make use of this database and put whatever information/data it outputs inside of here.
 </p>
 <br />
 <h2></h2>
