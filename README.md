@@ -202,7 +202,7 @@ Now onn the top left, right click Create new and select Database and name it osT
 <h2></h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/be037138-0698-4127-8e66-94e211dc9195" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/59f59fea-e783-437c-8683-455de2cb6f42" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now back onto the osTicket Basic Installation window fill out the Database settings using the same Heidi and SQL server username and password you made and for the Database name set it to what we made the database name in HeidiSQL which was "osTicket" Then finally click install osTicket.
