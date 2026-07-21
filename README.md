@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation </h1>
-This Project outlines the prerequisites and installation of the open-source help desk ticketing system osTicket on a virtual machine hosted on a cloud service environment run by Microsoft Azure. We will go step by step in explaining the implementation and Deployment of osTicket and it's dependencies while demonstrating literacy in all systems involved.<br />
+This Demonstration outlines the prerequisites and installation of the open-source help desk ticketing system osTicket on a virtual machine hosted on a cloud service environment run by Microsoft Azure. We will go step by step in explaining the implementation and Deployment of osTicket and it's dependencies while demonstrating literacy in all systems involved.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -225,5 +225,5 @@ Login to osTicket and if everything is installed properly then You should be abl
 <br />
 <h2></h2>
 
-### End of Project
-This demonstrates the use and configuration of Virtual machines, Remote Desktop, web servers (IIS), PHP, MySQL database integration, security adjustments to make a proper help desk using osTicket on a Virtual client. Help desk is now ready to go!
+### End of Demonstration
+This demonstrates the use and configuration of Virtual machines, Remote Desktop, web servers (IIS), PHP, MySQL database integration, security adjustments to make a proper help desk using osTicket on a Virtual client. Help desk is now ready to go for any business!
